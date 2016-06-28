@@ -9,4 +9,10 @@
     <version>1.0-SNAPSHOT</version>
 
 
+    public static void main(String [] args){
+
+    System.out.println(" Hello World !");
+
+    }
+
 </project>
